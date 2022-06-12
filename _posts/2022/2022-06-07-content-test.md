@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's do test, Content Filler
+title: Đây là bài post đầu tiên sau khi xài lại Github Page
 date: 2022-06-07
 ---
 
