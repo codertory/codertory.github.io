@@ -4,7 +4,7 @@ description: Learn earning money
 # Set this to your domain; baseurl is for the folder in your domain, if you have one -- `blog`.
 # you can leave both of them blank if you are deploying on a top-level domain.
 url: https://codertory.github.io
-baseurl: /
+baseurl: codertory
 remote_theme: oinam/oinam-jekyll
 
 # footer
