@@ -2,8 +2,6 @@
 layout: post
 date: 2022-06-13
 ---
-
-
 ![title)](https://picsum.photos/1000/600)
 
 Một góc Phúc Long ở Coopmart Thắng Lợi
