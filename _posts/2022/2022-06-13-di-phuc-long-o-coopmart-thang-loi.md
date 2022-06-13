@@ -7,8 +7,10 @@ date: 2022-06-13
 Một góc Phúc Long ở Coopmart Thắng Lợi
 
  Cuối tuần ở nhà cũng rãnh rỗi
- 
+
  ![alt](https://i.postimg.cc/DmkJzKVf/photo-2022-06-02-21-42-17.jpg)
+
+ Tấm hình không liên quan lắm, test cú pháp post ảnh lên blog thôi
  
 Nào đi Coopmart thôi
 
