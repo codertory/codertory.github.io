@@ -7,9 +7,8 @@ date: 2022-06-13
 Một góc Phúc Long ở Coopmart Thắng Lợi
 
  Cuối tuần ở nhà cũng rãnh rỗi
+ ![alt](https://postimg.cc/wR2TWZTn)
  
- [photo-2022-06-02-21-42-17.jpg](https://postimg.cc/wR2TWZTn)
-
 Nào đi Coopmart thôi
 
 Dù đã coi dự báo thời tiết hồi trưa là cỡ trưa đổ về chiều là sẽ mưa
